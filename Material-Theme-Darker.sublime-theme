@@ -1,0 +1,22 @@
+[  
+    {
+        "class": "tabset_control",
+        "layer0.tint": [44, 44, 44],
+    },
+
+    {
+        "class": "tab_label",
+        "font.size": 14
+    },
+
+
+    {
+        "class": "sidebar_heading",
+        "font.size": 15
+    },
+    {
+        "class": "sidebar_label",
+        "font.size": 14,
+        "font.bold": false
+    }
+]
